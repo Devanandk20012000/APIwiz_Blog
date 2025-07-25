@@ -9,8 +9,8 @@
 <hr>
 <h2 id="executive-summary">Executive Summary</h2>
 <p>In 2025, “API-first” is no longer a developer-centric approach; it’s an enterprise-wide mindset. It is now a strategic pillar of business design; central to product development and partner enablement. This research blog explores the growing significance of the API-first thinking across diverse industries. Also, explains why APIs are essential in today’s dynamic economy and how companies must adapt their mindset, structure, and tools for their effective implementation.</p>
-<p align="center">
-  <img src="https://github.com/Devanandk20012000/APIwiz_Blog/blob/ba262a48121e81cfb652b23f5fcea914725f8a52/20250725_0842_API%20Evolution%20Timeline_simple_compose_01k0zrze7desga61a0vnz4q2x4.png?raw=true" alt="API Evolution Timeline" width="60%" height="80%">
+<p align="left">
+  <img src="https://github.com/Devanandk20012000/APIwiz_Blog/blob/ba262a48121e81cfb652b23f5fcea914725f8a52/20250725_0842_API%20Evolution%20Timeline_simple_compose_01k0zrze7desga61a0vnz4q2x4.png?raw=true" alt="API Evolution Timeline" width="400" height="550">
 </p>
 <hr>
 <h2 id="the-shift-in-thinking">The Shift in Thinking</h2>
@@ -93,14 +93,9 @@
 </ul>
 <hr>
 <h2 id="api-success-metrics">API Success Metrics</h2>
-<p>Key KPIs to track API performance:</p>
-<ul>
-<li><strong>TTFC</strong>: Time taken for a developer to make their first successful API call.</li>
-<li><strong>Reuse Rate</strong>: Measures internal efficiency through repeated API use.</li>
-<li><strong>Uptime/Error Rate</strong>: Indicates reliability and user experience.</li>
-<li><strong>Partner Revenue</strong>: Revenue generated via API-based channels.</li>
-<li><strong>Shadow APIs</strong>: Unmanaged APIs that pose security risks.</li>
-</ul>
+<p align="left">
+  <img src="https://github.com/Devanandk20012000/APIwiz_Blog/blob/403d7d5f647097fe2552f3e5c9961db1d831ebbe/20250725_0354_API%20Performance%20KPIs_simple_compose_01k0z8hd0hfgwt5wxh3j3jv1h9.png?raw=true" alt="API Performance KPIs" width="400" height="500">
+</p>
 <hr>
 <h2 id="industry-standards">Industry Standards</h2>
 <p>Adopting sector-specific API standards ensures interoperability:</p>
