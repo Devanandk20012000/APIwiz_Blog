@@ -62,13 +62,7 @@
 </p>
 <hr>
 <h2 id="case-study-spotlights">Case Study Spotlights</h2>
-<ul>
-<li><strong>Stripe</strong>: Built its business around a developer-friendly payments API. Their emphasis on documentation, ease of use, and integration helped them to dominate the fintech sector and generate robust recurring revenue.</li>
-<li><strong>Twilio</strong>: Disrupted telecom by offering APIs for voice, SMS, and video. Their API-first model enabled developers to embed communication features quickly.</li>
-<li><strong>Netflix</strong>: Uses APIs to maintain a consistent streaming experience across all platforms. Their architecture supports rapid adaptation to new devices, enhancing scalability and user satisfaction.</li>
-<li><strong>PayPal</strong>: Developed an internal API platform to centralise access, avoid redundancy and improve onboarding. With better governance and faster TTFC, they enhanced developer productivity and integration quality.</li>
-<li><strong>Salesforce</strong>: Exposed APIs to integrate with external applications and partners. Over 50% of its traffic, and a major portion of its revenue, now comes through APIs.</li>
-</ul>
+<iframe src="https://drive.google.com/file/d/1Wi3wuGNS5F5vtJyApu4mRrSC7QVLEXj3/preview" width="100%" height="480">&#10;</iframe>
 <hr>
 <h2 id="api-success-metrics">API Success Metrics</h2>
 <p align="left">
@@ -77,16 +71,13 @@
 <hr>
 <h2 id="industry-standards">Industry Standards</h2>
 <p>Adopting sector-specific API standards ensures interoperability:</p>
-<ul>
-<li><strong>FHIR (Healthcare)</strong>: Enables secure patient data exchange.</li>
-<li><strong>FAPI (Finance)</strong>: Supports safe open banking interfaces.</li>
-<li><strong>TM Forum (Telecom)</strong>: Streamlines service onboarding and modularity.</li>
-</ul>
+<p align="left">
+  <img src="https://github.com/Devanandk20012000/APIwiz_Blog/blob/3f66f1ebc702653bec57767b8fc20bc3864eedde/20250725_1136_Unified%20Digital%20Frameworks_simple_compose_01k102zbsef7d89aa0ctyyf8ja.png?raw=true" alt="Unified Digital Frameworks" width="400" height="550">
+</p>
 <hr>
-<h2 id="emerging-dimensions">Emerging Dimensions</h2>
+<h2 id="an-emerging-dimension">An Emerging Dimension</h2>
 <ul>
-<li><strong>Edge APIs</strong>: APIs deployed at the edge support low-latency use cases like IoT, AR/VR, and real-time analytics. Technologies such as WebSockets and GraphQL subscriptions enable faster, event-driven interactions.</li>
-<li><strong>Sustainable (Green) APIs</strong>: Focus on minimising energy use through smaller payloads, caching, and serverless infrastructure. They help organisations meet ESG goals while optimising cloud resource consumption.</li>
+<li><strong>Sustainable/Green APIs</strong>: Green APIs focus on reducing energy usage through small payloads, caching, and serverless infrastructure. Help organisations meet ESG goals while optimising cloud resource consumption.</li>
 </ul>
 <p align="left">
   <img src="https://github.com/Devanandk20012000/APIwiz_Blog/blob/38b6d74bdeebb63898c7ba84e416ab1edd38df2c/20250725_1009_Eco-Friendly%20API%20Guide_simple_compose_01k0zxzsvmejc8rp89pvyqa9c0.png?raw=true" alt="Eco-Friendly API Guide" width="400" height="570">
