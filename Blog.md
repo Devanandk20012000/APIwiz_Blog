@@ -9,7 +9,6 @@
 <hr>
 <h2 id="executive-summary">Executive Summary</h2>
 <p>In 2025, “API-first” is no longer a developer-centric approach; it’s an enterprise-wide mindset. It is now a strategic pillar of business design; central to product development and partner enablement. This research blog explores the growing significance of the API-first thinking across diverse industries. Also, explains why APIs are essential in today’s dynamic economy and how companies must adapt their mindset, structure, and tools for their effective implementation.</p>
-<p><img src="https://raw.githubusercontent.com/Devanandk20012000/Test_Images/a517344468a05626fc053fc02816d712431dc1c4/20250725_0842_API%20Evolution%20Timeline_simple_compose_01k0zrze7desga61a0vnz4q2x4.png" alt="API Evolution Timeline"></p>
 <hr>
 <h2 id="the-shift-in-thinking">The Shift in Thinking</h2>
 <p>APIs were once seen as back-office mechanisms that connected systems and simplified database access. Today, they are interfaces to value. APIs have become the strategic interface through which enterprises unlock value, engage ecosystems, and accelerate delivery.</p>
